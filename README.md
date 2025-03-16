@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I spend my day almost Learning every day.
 
 ## 🌐 Socials
-![Medium]([https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://abdulmohamedm.medium.com)) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmohamedm/)   ![GitHub]([https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white](https://img.shields.io/github/followers/abdulmohamedmsdev
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white](https://abdulmohamedm.medium.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulmohamedm/)   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://img.shields.io/github/followers/abdulmohamedmsdev
 ))
 	![GitLab]((https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)(https://img.shields.io/gitlab/followers/abdulmohamedm
 ))
